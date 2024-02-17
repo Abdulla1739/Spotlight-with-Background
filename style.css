@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+.navlogo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.navlogo img{
+height: 100px;
+}
+.content-section{
+    background: url(./images/image.jpg) no-repeat   center;
+    background-size: cover;
+    height: calc(100vh - 124px);
+    padding-top: 200px;
+    box-sizing: border-box;
+}
+h1{
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 1em;
+    color: red;
+}
+h2{
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 2em; 
+    color: red;
+}
+p {
+    font: weight 5px;;
+    font-size: 28px;
+    line-height: 2em;
+    color: red;
+    font-weight: 700;
+    
+  
+}
